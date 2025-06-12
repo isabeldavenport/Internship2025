@@ -9,4 +9,4 @@ watchdog>=3.0.0
 plotly>=6.1.2
 vaderSentiment>=3.3.2
 nltk>=3.8.1
-snscrape 
+git+https://github.com/JustAnotherArchivist/snscrape.git 
