@@ -8,4 +8,5 @@ seaborn>=0.13.2
 watchdog>=3.0.0
 plotly>=6.1.2
 vaderSentiment>=3.3.2
-nltk>=3.8.1 
+nltk>=3.8.1
+snscrape>=0.7.0.20240206 
