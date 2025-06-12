@@ -1,0 +1,5 @@
+[server]
+pythonVersion = "3.9.6"
+
+[global]
+developmentMode = false 
